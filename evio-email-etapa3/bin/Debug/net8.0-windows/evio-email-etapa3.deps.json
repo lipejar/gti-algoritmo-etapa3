@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "evio-email-etapa3/1.0.0": {
+        "runtime": {
+          "evio-email-etapa3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "evio-email-etapa3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
