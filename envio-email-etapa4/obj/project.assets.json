@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\evio-email-etapa3.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\envio-email-etapa4\\evio-email-etapa3.csproj",
       "projectName": "evio-email-etapa3",
-      "projectPath": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\evio-email-etapa3.csproj",
+      "projectPath": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\envio-email-etapa4\\evio-email-etapa3.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\obj\\",
+      "outputPath": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\envio-email-etapa4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",

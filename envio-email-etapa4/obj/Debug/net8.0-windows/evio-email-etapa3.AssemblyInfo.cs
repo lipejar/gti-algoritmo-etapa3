@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("evio-email-etapa3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73b79a8db03cfdb88530835740307a38d1602380")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c37f5be947c94ca880fc2f8b650057cfde4d4479")]
 [assembly: System.Reflection.AssemblyProductAttribute("evio-email-etapa3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("evio-email-etapa3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
