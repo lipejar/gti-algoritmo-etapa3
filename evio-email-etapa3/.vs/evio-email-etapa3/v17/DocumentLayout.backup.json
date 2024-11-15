@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A828E191-C0D5-4C7B-877D-BA681AAABF8D}|evio-email-etapa3.csproj|c:\\users\\felip\\onedrive - sga.pucminas.br\\projetos\\proposta de infraestrutura\\etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A828E191-C0D5-4C7B-877D-BA681AAABF8D}|evio-email-etapa3.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A828E191-C0D5-4C7B-877D-BA681AAABF8D}|evio-email-etapa3.csproj|c:\\users\\felip\\onedrive - sga.pucminas.br\\projetos\\proposta de infraestrutura\\etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A828E191-C0D5-4C7B-877D-BA681AAABF8D}|evio-email-etapa3.csproj|solutionrelative:services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A828E191-C0D5-4C7B-877D-BA681AAABF8D}|evio-email-etapa3.csproj|c:\\users\\felip\\onedrive - sga.pucminas.br\\projetos\\proposta de infraestrutura\\etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A828E191-C0D5-4C7B-877D-BA681AAABF8D}|evio-email-etapa3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\Services\\AlunoService.cs",
+              "RelativeToolTip": "Services\\AlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:56:51.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:42:11.079Z",
+              "EditorCaption": " [Projeto]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +61,7 @@
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvxwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T18:21:42.083Z",
               "EditorCaption": ""
@@ -45,7 +78,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\felip\\OneDrive - sga.pucminas.br\\Projetos\\Proposta de Infraestrutura\\Etapa 3\\gti-algoritmo-etapa3\\evio-email-etapa3\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T22:15:49.006Z",
               "EditorCaption": ""
